@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TTS", "TTS\TTS.pyproj", "{B922BE1E-5AE1-4C94-BBDC-B16386627AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B922BE1E-5AE1-4C94-BBDC-B16386627AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B922BE1E-5AE1-4C94-BBDC-B16386627AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AD5E99-7E5A-4EE7-858C-1F0B7D4582F7}
+	EndGlobalSection
+EndGlobal
